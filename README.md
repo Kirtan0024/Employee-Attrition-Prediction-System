@@ -190,5 +190,3 @@ Based on the data generation logic, key factors include:
 Kirtan Parmar
 
 GitHub: @Kirtan0024 "# Employee Attrition Prediction System "
-"# Employee-Attrition-Prediction-System" 
-# Employee-Attrition-Prediction-System
