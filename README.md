@@ -165,6 +165,26 @@ Based on the data generation logic, key factors include:
 - **Web Framework**: Streamlit
 - **Development**: Jupyter Notebook
 
+
+## 📸 Project Screenshots
+
+## EDA
+
+![EDA](employee-attrition-prediction/screenshots/EDA.png)
+
+## Model Performance Comparison
+
+![Model Comparison](employee-attrition-prediction/screenshots/model-comparison.png)
+
+## Final Model Ranking
+
+![Final Model Ranking](employee-attrition-prediction/screenshots/final_model_ranking.png)
+
+## Streamlit Application
+
+![Streamlit Application](employee-attrition-prediction/screenshots/streamlit-app.png)
+
+
 👤 Author
 
 Kirtan Parmar
