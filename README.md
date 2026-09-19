@@ -166,23 +166,23 @@ Based on the data generation logic, key factors include:
 - **Development**: Jupyter Notebook
 
 
-## 📸 Project Screenshots
+### Screenshots
 
-## EDA
+### EDA
 
-![EDA](employee-attrition-prediction/screenshots/EDA.png)
+![EDA](screenshots/EDA.png)
 
-## Model Performance Comparison
+### Model Performance Comparison
 
-![Model Comparison](employee-attrition-prediction/screenshots/model-comparison.png)
+![Model Comparison](screenshots/model-comparison.png)
 
-## Final Model Ranking
+### Final Model Ranking
 
-![Final Model Ranking](employee-attrition-prediction/screenshots/final_model_ranking.png)
+![Final Model Ranking](screenshots/final_model_ranking.png)
 
-## Streamlit Application
+### Streamlit Application
 
-![Streamlit Application](employee-attrition-prediction/screenshots/streamlit-app.png)
+![Streamlit Application](screenshots/streamlit-app.png)
 
 
 👤 Author
