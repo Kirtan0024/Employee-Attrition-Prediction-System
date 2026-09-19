@@ -1,0 +1,62 @@
+Age
+Gender
+Education
+JobLevel
+YearsAtCompany
+YearsInCurrentRole
+YearsSinceLastPromotion
+YearsWithCurrManager
+MonthlyIncome
+StockOptionLevel
+PercentSalaryHike
+DistanceFromHome
+EnvironmentSatisfaction
+JobSatisfaction
+WorkLifeBalance
+RelationshipSatisfaction
+PerformanceRating
+TrainingTimesLastYear
+OverTime
+NumCompaniesWorked
+JobInvolvement
+AvgSatisfaction
+PromotionRate
+IncomePerLevel
+ExperienceRatio
+PoorWorkLife
+CareerStagnation
+Department_IT
+Department_Marketing
+Department_Operations
+Department_R&D
+Department_Sales
+JobRole_Human Resources
+JobRole_Laboratory Technician
+JobRole_Manager
+JobRole_Marketing Manager
+JobRole_Marketing Specialist
+JobRole_Operations Manager
+JobRole_Operations Specialist
+JobRole_Research Director
+JobRole_Research Scientist
+JobRole_Sales Executive
+JobRole_Sales Representative
+JobRole_Software Engineer
+EducationField_Life Sciences
+EducationField_Marketing
+EducationField_Medical
+EducationField_Other
+EducationField_Technical Degree
+MaritalStatus_Married
+MaritalStatus_Single
+BusinessTravel_Travel_Frequently
+BusinessTravel_Travel_Rarely
+AgeGroup_26-35
+AgeGroup_36-45
+AgeGroup_46+
+IncomeGroup_Medium
+IncomeGroup_High
+IncomeGroup_Very High
+TenureGroup_3-5
+TenureGroup_6-10
+TenureGroup_10+

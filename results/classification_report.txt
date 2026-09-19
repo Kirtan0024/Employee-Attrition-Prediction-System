@@ -1,0 +1,11 @@
+Classification Report - Logistic Regression
+============================================================
+
+              precision    recall  f1-score   support
+
+      Stayed     0.9056    0.6964    0.7873       840
+        Left     0.2797    0.6188    0.3852       160
+
+    accuracy                         0.6840      1000
+   macro avg     0.5926    0.6576    0.5863      1000
+weighted avg     0.8054    0.6840    0.7230      1000

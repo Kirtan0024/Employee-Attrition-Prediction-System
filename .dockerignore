@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation (keep README.md)
+docs/
+*.md
+!README.md
+
+# Tests
+tests/
+pytest_cache/
+.pytest_cache/
+*.coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# Data (we'll copy selectively)
+data/raw/*.csv
+!data/raw/employee_data.csv
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+nul
+
+# Windows
+RUN_APP.bat
+*.bat
+
+# Docker
+docker-compose.yml
+Dockerfile
+.dockerignore
+
+# Other
+.env
+*.sqlite
+*.db

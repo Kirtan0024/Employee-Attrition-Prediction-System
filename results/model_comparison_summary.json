@@ -1,0 +1,101 @@
+{
+    "comparison_table": [
+        {
+            "Model": "Logistic Regression",
+            "Accuracy": "0.5900",
+            "Precision": "0.5905",
+            "Recall": "0.5928",
+            "F1 Score": "0.5916",
+            "ROC-AUC": "0.6258"
+        },
+        {
+            "Model": "SVM",
+            "Accuracy": "0.5900",
+            "Precision": "0.5870",
+            "Recall": "0.6128",
+            "F1 Score": "0.5996",
+            "ROC-AUC": "0.6146"
+        },
+        {
+            "Model": "Gradient Boosting",
+            "Accuracy": "0.5830",
+            "Precision": "0.5764",
+            "Recall": "0.6327",
+            "F1 Score": "0.6032",
+            "ROC-AUC": "0.6087"
+        },
+        {
+            "Model": "Random Forest",
+            "Accuracy": "0.5800",
+            "Precision": "0.5774",
+            "Recall": "0.6028",
+            "F1 Score": "0.5898",
+            "ROC-AUC": "0.6032"
+        },
+        {
+            "Model": "XGBoost",
+            "Accuracy": "0.5600",
+            "Precision": "0.5572",
+            "Recall": "0.5928",
+            "F1 Score": "0.5745",
+            "ROC-AUC": "0.5700"
+        }
+    ],
+    "ranking_table": [
+        {
+            "Rank": 1,
+            "Model": "Logistic Regression",
+            "ROC-AUC": 0.6257985031940128,
+            "F1 Score": 0.5916334661354582,
+            "Accuracy": 0.59,
+            "Avg Performance": 0.5981407194096378,
+            "Best Model": "\u2705"
+        },
+        {
+            "Rank": 2,
+            "Model": "SVM",
+            "ROC-AUC": 0.614562458249833,
+            "F1 Score": 0.599609375,
+            "Accuracy": 0.59,
+            "Avg Performance": 0.6007888744603497,
+            "Best Model": ""
+        },
+        {
+            "Rank": 3,
+            "Model": "Gradient Boosting",
+            "ROC-AUC": 0.6086624346497387,
+            "F1 Score": 0.6032350142721218,
+            "Accuracy": 0.583,
+            "Avg Performance": 0.6007991232447242,
+            "Best Model": ""
+        },
+        {
+            "Rank": 4,
+            "Model": "Random Forest",
+            "ROC-AUC": 0.6031704126816507,
+            "F1 Score": 0.58984375,
+            "Accuracy": 0.58,
+            "Avg Performance": 0.5906492864735798,
+            "Best Model": ""
+        },
+        {
+            "Rank": 5,
+            "Model": "XGBoost",
+            "ROC-AUC": 0.5699902799611198,
+            "F1 Score": 0.574468085106383,
+            "Accuracy": 0.56,
+            "Avg Performance": 0.5708992001730652,
+            "Best Model": ""
+        }
+    ],
+    "best_model": "Logistic Regression",
+    "best_model_metrics": {
+        "accuracy": 0.59,
+        "precision": 0.5904572564612326,
+        "recall": 0.592814371257485,
+        "f1_score": 0.5916334661354582,
+        "roc_auc": 0.6257985031940128
+    },
+    "total_models_evaluated": 5,
+    "evaluation_timestamp": "20260919_103310"
+}

@@ -1,0 +1,74 @@
+PREPROCESSING SUMMARY
+============================================================
+
+Input file: data/raw/employee_data.csv
+Total records: 5000
+Total features: 62
+Training samples: 4000
+Test samples: 1000
+Test size: 20%
+Random state: 42
+
+Feature list:
+1. Age
+2. Gender
+3. Education
+4. JobLevel
+5. YearsAtCompany
+6. YearsInCurrentRole
+7. YearsSinceLastPromotion
+8. YearsWithCurrManager
+9. MonthlyIncome
+10. StockOptionLevel
+11. PercentSalaryHike
+12. DistanceFromHome
+13. EnvironmentSatisfaction
+14. JobSatisfaction
+15. WorkLifeBalance
+16. RelationshipSatisfaction
+17. PerformanceRating
+18. TrainingTimesLastYear
+19. OverTime
+20. NumCompaniesWorked
+21. JobInvolvement
+22. AvgSatisfaction
+23. PromotionRate
+24. IncomePerLevel
+25. ExperienceRatio
+26. PoorWorkLife
+27. CareerStagnation
+28. Department_IT
+29. Department_Marketing
+30. Department_Operations
+31. Department_R&D
+32. Department_Sales
+33. JobRole_Human Resources
+34. JobRole_Laboratory Technician
+35. JobRole_Manager
+36. JobRole_Marketing Manager
+37. JobRole_Marketing Specialist
+38. JobRole_Operations Manager
+39. JobRole_Operations Specialist
+40. JobRole_Research Director
+41. JobRole_Research Scientist
+42. JobRole_Sales Executive
+43. JobRole_Sales Representative
+44. JobRole_Software Engineer
+45. EducationField_Life Sciences
+46. EducationField_Marketing
+47. EducationField_Medical
+48. EducationField_Other
+49. EducationField_Technical Degree
+50. MaritalStatus_Married
+51. MaritalStatus_Single
+52. BusinessTravel_Travel_Frequently
+53. BusinessTravel_Travel_Rarely
+54. AgeGroup_26-35
+55. AgeGroup_36-45
+56. AgeGroup_46+
+57. IncomeGroup_Medium
+58. IncomeGroup_High
+59. IncomeGroup_Very High
+60. TenureGroup_3-5
+61. TenureGroup_6-10
+62. TenureGroup_10+
